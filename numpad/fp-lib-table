@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri "C:/Users/Patrick Chau/Documents/GitHub/numpad/libraries/keebs.pretty-master")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "C:/Users/Patrick Chau/Documents/GitHub/numpad/libraries/keyboard_parts.pretty-master")(options "")(descr ""))
+)
